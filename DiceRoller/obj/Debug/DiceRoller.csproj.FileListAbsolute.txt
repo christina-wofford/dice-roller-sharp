@@ -1,0 +1,5 @@
+c:\users\christina\documents\visual studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+c:\users\christina\documents\visual studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+c:\users\christina\documents\visual studio 2012\Projects\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+c:\users\christina\documents\visual studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+c:\users\christina\documents\visual studio 2012\Projects\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
